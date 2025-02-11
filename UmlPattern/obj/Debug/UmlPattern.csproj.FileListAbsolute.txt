@@ -1,0 +1,8 @@
+E:\vsRepos\UmlPattern\UmlPattern\bin\Debug\UmlPattern.exe.config
+E:\vsRepos\UmlPattern\UmlPattern\bin\Debug\UmlPattern.exe
+E:\vsRepos\UmlPattern\UmlPattern\bin\Debug\UmlPattern.pdb
+E:\vsRepos\UmlPattern\UmlPattern\obj\Debug\UmlPattern.csproj.AssemblyReference.cache
+E:\vsRepos\UmlPattern\UmlPattern\obj\Debug\UmlPattern.csproj.SuggestedBindingRedirects.cache
+E:\vsRepos\UmlPattern\UmlPattern\obj\Debug\UmlPattern.csproj.CoreCompileInputs.cache
+E:\vsRepos\UmlPattern\UmlPattern\obj\Debug\UmlPattern.exe
+E:\vsRepos\UmlPattern\UmlPattern\obj\Debug\UmlPattern.pdb
